@@ -1,5 +1,5 @@
 # 哔哩哔哩 - 眼不见心不烦
-根据关键词屏蔽b站首页或视频页的封面及标题，且无法点击。
+根据关键词屏蔽b站首页或视频页的封面及标题
 
 # 第三方组件
 
@@ -10,7 +10,9 @@
 # 安装
 浏览器需要先安装[Tampermonkey](https://tampermonkey.net/)插件.
 
-[点击安装脚本](https://github.com/xiaomai0830/bilibili-out-of-sight-out-of-mind/raw/master/bilibili-out-of-sight-out-of-mind.user.js)
+[点击直接安装脚本](https://github.com/xiaomai0830/bilibili-out-of-sight-out-of-mind/raw/master/bilibili-out-of-sight-out-of-mind.user.js)
+
+前往[Greasyfork](https://greasyfork.org/zh-CN/scripts/408592-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-%E7%9C%BC%E4%B8%8D%E8%A7%81%E5%BF%83%E4%B8%8D%E7%83%A6)
 
 # 设置
 
