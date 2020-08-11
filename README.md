@@ -8,7 +8,9 @@
 - [tagify](https://github.com/yairEO/tagify)
 
 # 安装
-浏览器需要先[Tampermonkey](https://tampermonkey.net/)插件.
+浏览器需要先安装[Tampermonkey](https://tampermonkey.net/)插件.
+
+[点击安装脚本](https://github.com/xiaomai0830/bilibili-out-of-sight-out-of-mind/raw/master/bilibili-out-of-sight-out-of-mind.user.js)
 
 # 设置
 
